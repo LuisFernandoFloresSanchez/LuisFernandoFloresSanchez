@@ -1,7 +1,7 @@
 # Luis Flores - Software Developer & Engineer
 
 ## 👨‍💻 About Me
-Software Engineer with 5+ years of experience specializing in web and mobile development. Expert in Android applications for transportation and tourism sectors. Proven track record in:
+Software Engineer with 6+ years of experience specializing in web and mobile development. Expert in Android applications for transportation and tourism sectors. Proven track record in:
 - Leading development teams and delivering enterprise-level projects
 - Rapid technology adoption and implementation
 - Creating scalable solutions
