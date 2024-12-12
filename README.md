@@ -12,9 +12,9 @@ Software Engineer with 6+ years of experience specializing in web and mobile dev
 
 ### Frontend Development
 - **React Ecosystem:** TypeScript, Hooks, Redux, Zustand
-- **UI/UX:** Material UI, HTML5, CSS3, Tailwind
+- **UI/UX:** Material UI, HTML5, CSS3, Tailwind, Material, Bootstrap
 - **Testing:** Jest
-- **State Management:** Redux, Zustand
+- **State Management:** Redux, Zustandm context
 
 ### Mobile Development
 - **Android Native:** Kotlin, Java, Android SDK
